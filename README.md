@@ -6,6 +6,6 @@ I created an updated version of Utility Construction's existing logo using Photo
 
 Next I created a landing page which would generate leads for architectural design. The overall goal was to give enough information on the page and a call to action (i.e., signing up for a free estimate) so that the user does not have to navigate away from the page. I first created a wireframe using paper and pencil. I then put it all together in Photoshop along with the logo and created layouts for desktop, tablet and mobile views. 
 
-I created a home page for the construction company complete with a navbar, frequent and visible call to actions, a featured project page, a project highlights page, and a form to sign up for their newsletter. I used Adobe XD and created layouts for desktop, tablet and mobile.
+Next, I created a Home page containing a navbar, frequent and visible call to actions, a featured project page, a project highlights page, and a form to sign up for their newsletter. I used Adobe XD and created layouts for desktop, tablet and mobile.
 
-The company also requested a construction page which would showcase additional projects, their mission statement, and a staff page. The page also had a call to action for the user to request a quote. I used Adobe XD and created layouts for desktop, tablet and mobile. 
+Lastly, I built a Construction page which would showcase additional projects, their mission statement, and a staff page. The bottom of the page contained a form for the user to request a quote. I used Adobe XD and created layouts for desktop, tablet and mobile. 
